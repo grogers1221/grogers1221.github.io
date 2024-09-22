@@ -9,7 +9,7 @@ To clone my repository: I connected my Github account to my Desktop application.
 # About Me
 
 ## My Interests
-    I like playing video games. One of my favorites is **Teamfight Tactics**. It has a lot of cute characters and fun gameplay. I also enjoy playing **Dress to Impress** on Roblox. It is a very fun fashion game with a lot of room to play with. I love doing makeup and cosplay off my own as well. 
+I like playing video games. One of my favorites is **Teamfight Tactics**. It has a lot of cute characters and fun gameplay. I also enjoy playing **Dress to Impress** on Roblox. It is a very fun fashion game with a lot of room to play with. I love doing makeup and cosplay off my own as well.
 ## Websites I Reccomend
-    - [Roblox](www.roblox.com) - I love using Roblox to find new and fun games to play in my spare time.
-    - [YouTube](www.youtube.com) - I use YouTube frequently to keep up with trends and as a comfort mechanism. Putting videos on in the background can help me go to sleep.
+- [Roblox](www.roblox.com) - I love using Roblox to find new and fun games to play in my spare time.
+- [YouTube](www.youtube.com) - I use YouTube frequently to keep up with trends and as a comfort mechanism. Putting videos on in the background can help me go to sleep.
